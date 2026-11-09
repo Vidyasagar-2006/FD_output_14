@@ -1,6 +1,6 @@
 * { box-sizing: border-box; margin: 0; padding: 0; } 
-body { font-family: Arial, sans-serif; background: black; } 
-.navbar { background: #2c3e50; color: white; padding: 15px 20px; font-size: 1.3rem; } 
+body { font-family: Arial, sans-serif; background: white; } 
+.navbar { background: black; color: white; padding: 15px 20px; font-size: 1.3rem; } 
 .app > input { display: block; margin: 20px auto; padding: 10px; width: 90%; max-width: 400px; border: 1px solid #f4f4f4; border-radius: 5px; } 
 .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 15px; padding: 20px; } 
 .card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1); } 
